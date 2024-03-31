@@ -1,2 +1,2 @@
-# launcher
-Для пидоров INZEWORLD
+# launcher 
+https://mc.inzeworld.com/launcher
